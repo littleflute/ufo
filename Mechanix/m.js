@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 The Writer.mp3";		
+f[2]	= "02 Somethin' Else.mp3";		
+f[3]	= "03 Back Into My Life.mp3";		
+f[4]	= "04 You'll Get Love.mp3";		
+f[5]	= "05 Doing It All for You.mp3";		
+f[6]	= "06 We Belong to the Night.mp3";		
+f[7]	= "07 Let It Rain.mp3";		
+f[8]	= "09 Feel It.mp3";		
+f[9]	= "11 Heel of a Stranger [-].mp3";		
+f[10]	= "12 We Belong to the Night [_][-].mp3";		
+f[11]	= "13 Let It Rain [_][-].mp3";		
+f[12]	= "14 Doing It All for You [_][-].mp3";		
+f[13]	= "Dreaming.mp3";		
+f[14]	= "Terri.mp3";		
