@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Only You Can Rock Me.mp3";		
+f[2]	= "02 Pack It Up (And Go).mp3";		
+f[3]	= "03 Arbory Hill.mp3";		
+f[4]	= "04 Ain't No Baby.mp3";		
+f[5]	= "05 Looking out for No. 1.mp3";		
+f[6]	= "06 Hot 'N' Ready.mp3";		
+f[7]	= "08 You Don't Fool Me.mp3";		
+f[8]	= "09 Looking out for No. 1 (Reprise).mp3";		
+f[9]	= "10 One More for the Rodeo.mp3";		
+f[10]	= "11 Born to Lose.mp3";		
+f[11]	= "12 Hot 'N' Ready [_][-][Live].mp3";		
+f[12]	= "13 Pack It Up (And Go) [_][-][Live].mp3";		
+f[13]	= "14 Ain't No Baby [_][-][Live].mp3";		
+f[14]	= "Cherry.mp3";		
