@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Alpha Centauri.mp3";		
+f[2]	= "02 Lettin' Go.mp3";		
+f[3]	= "03 Mystery Train.mp3";		
+f[4]	= "04 This Fire Burns Tonight.mp3";		
+f[5]	= "05 Gone in the Night.mp3";		
+f[6]	= "06 Young Blood.mp3";		
+f[7]	= "07 No Place to Run.mp3";		
+f[8]	= "08 Take it or Leave It.mp3";		
+f[9]	= "09 Money Money.mp3";		
+f[10]	= "11 Gone in the Night [_][-][Alternate Take][Alternative Studio Version].mp3";		
+f[11]	= "12 Lettin' Go [_][-][Recorded Live at the Marquee, London 16-11-80].mp3";		
+f[12]	= "13 Mystery Train [_][-][Recorded Live at the Marquee, London 16-11-80].mp3";		
+f[13]	= "14 No Place to Run [-][Recorded Live at the Marquee, London 15-11-80][_].mp3";		
+f[14]	= "Anyday.mp3";		
