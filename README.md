@@ -1,4 +1,4 @@
-[v0.0.5](https://github.com/littleflute/ufo/edit/master/README.md)
+[v0.0.6](https://github.com/littleflute/ufo/edit/master/README.md)
 
 [Lights Out (2008 Bonus Tracks)](Lights Out [2008 Bonus Tracks])
 
@@ -6,3 +6,4 @@
 
 [Mechanix](Mechanix)
 
+[No Heavy Petting (Bonus Tracks)](No Heavy Petting [Bonus Tracks])
