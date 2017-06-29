@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Natural Thing [2007 Digital Remaster].mp3";		
+f[2]	= "02 I'm a Loser [2007 Digital Remaster].mp3";		
+f[3]	= "03 Can You Roll Her [2007 Digital Remaster].mp3";		
+f[4]	= "04 Belladonna [2007 Digital Remaster].mp3";		
+f[5]	= "05 Reasons Love [2007 Digital Remaster].mp3";		
+f[6]	= "06 Highway Lady [2007 Digital Remaster].mp3";		
+f[7]	= "07 On with the Action [2007 Digital Remaster].mp3";		
+f[8]	= "08 A Fool in Love [2007 Digital Remaster].mp3";		
+f[9]	= "09 Martian Landscape [2007 Digital Remaster].mp3";		
+f[10]	= "10 All or Nothing [_][-][Previously Unreleased Studio Track].mp3";		
+f[11]	= "11 French Kisses [_][-][Previously Unreleased Studio Track].mp3";		
+f[12]	= "12 Have You Seen Me Lately Joan [Previously Unreleased Studio Track] [_][-.mp3";		
+f[13]	= "13 Tonight Tonight [_][-][Previously Unreleased Studio Track].mp3";		
+f[14]	= "14 All the Strings [_][-][Previously Unreleased Studio Track].mp3";		
